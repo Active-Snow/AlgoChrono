@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"afpaalgo","l":"Afpaalgo"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"afpaalgo","l":"part1"},{"p":"afpaalgo","l":"part2"},{"p":"afpaalgo","l":"part3"},{"p":"afpaalgo","l":"part4"},{"p":"afpaalgo","l":"part5"},{"p":"afpaalgo","l":"part6"}]
