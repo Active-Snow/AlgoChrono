@@ -14,8 +14,8 @@ public class part2 {
     public static void exo1 () {
         int val = 231;
         int doble = val * 2;
-        System.out.println("val ="+val);
-        System.out.println("doble ="+ doble);
+        System.out.println("valeur ="+val);
+        System.out.println("double ="+ doble);
     }
     public static void exo2 (int a) {
         a = a*a;
