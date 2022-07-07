@@ -26,7 +26,7 @@ public class part6 {
     public static void exo2 () {
         char tabchar[] = {'a','e','i','o','u','y'};
         for (int i = 0; i < tabchar.length; i++ ) {
-          System.out.println(i +" du tableau nous avons = " + tabchar[i]);
+          System.out.println(i +" Du tableau nous avons = " + tabchar[i]);
         }
     }
     
@@ -41,7 +41,7 @@ public class part6 {
             }
             
             for (int i = 0; i < tabnote.length; i++ ) {
-            System.out.println(i +" du tableau nous avons = " + tabnote[i]);
+            System.out.println(i +" Du tableau nous avons = " + tabnote[i]);
             }
     }
     
@@ -54,7 +54,7 @@ public class part6 {
         }
         
             for ( i = 0; i < nb.length; i++ ) {
-            System.out.println(i +" du tableau nous avons = " + nb[i]);
+            System.out.println(i +" Du tableau nous avons = " + nb[i]);
             }
         
     }
@@ -84,7 +84,7 @@ public class part6 {
             i = i +1;
         }
             for ( i = 0; i < suite.length; i++ ) {
-            System.out.println(i +" du tableau nous avons = " + suite[i]);
+            System.out.println(i +" Du tableau nous avons = " + suite[i]);
             }
         
     }
